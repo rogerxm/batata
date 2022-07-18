@@ -89,7 +89,7 @@ header img {
     width: 13px;
     height: 8px;
     margin-left: 10px;
-    background-image: url('https://drive.google.com/file/d/1p1Oov4a1fN_CwuZzdcDxLyHQzIjjSSLk/view?usp=sharing');
+    background-image: url(/assets/icons/down-arrow.svg);
 }
 main {
     width: 100%;
@@ -117,7 +117,7 @@ main {
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url('https://drive.google.com/file/d/1I5Zv-XBU5hx9f7EhINwdROuxDzTjIW3v/view?usp=sharing');
+    background-image: url('./assets/img/bitcoin.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -208,7 +208,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("https://drive.google.com/file/d/1TJfLKLmnVnMI5_sRqkB0qZsIunb4XWaB/view?usp=sharing");
+    background-image: url("./assets/icons/trending-down.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -218,7 +218,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("https://drive.google.com/file/d/17aAoG0yLtHF0TDPCLS7qEf3NGDPOq03g/view?usp=sharing");
+    background-image: url("./assets/icons/trending-up.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -261,7 +261,7 @@ main {
     height: 25px;
     top: -10px;
     left: calc(50% - 20px);
-    background-image: url('https://drive.google.com/file/d/1QZBq44TrKwVW7qzvUuqK8c8V6ydg3s61/view?usp=sharing');
+    background-image: url('./assets/icons/batata.svg');
 
 }
 .product-detail--tittle {
@@ -302,7 +302,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url('https://drive.google.com/file/d/1N6wxSfJyvK-lJnnGbI4mDbdGRmRY9nmq/view?usp=sharing');
+    background-image: url(/assets/icons/clock.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -324,7 +324,7 @@ main {
     width: 100%;
     min-width: 320px;
     height: 60vh;
-    background-image: url('https://i.imgur.com/3F6d0Uw.png');
+    background-image: url(/assets/img/bitcoinbaby2x.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -437,7 +437,7 @@ main {
     display:inline-block;
     width: 20px;
     height: 20px;
-    background-image: url('https://drive.google.com/file/d/1C-Ohb8HwIKA2KkJas9WfVxpQG8dOvTu7/view?usp=sharing');
+    background-image: url('/assets/icons/orange-right-arrow.svg');
     vertical-align: text-bottom;
     cursor: pointer;
 }

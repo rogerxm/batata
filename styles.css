@@ -324,7 +324,7 @@ main {
     width: 100%;
     min-width: 320px;
     height: 60vh;
-    background-image: url(/assets/img/bitcoinbaby2x.jpg);
+    background-image: url('https://i.imgur.com/3F6d0Uw.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

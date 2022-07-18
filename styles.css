@@ -370,6 +370,7 @@ main {
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity; 
+    overflow-x: hidden;
 }
 .plans-container--card {
     position: relative;
